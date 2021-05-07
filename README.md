@@ -1,6 +1,6 @@
 # TwitterClone
 
-TwitterClone is an iOS project for showing messages from Firestore.
+Twitter Clone is sample iOS project to showcase Login, Signup, Loading Messages and Adding messages to Firestore
 
 ## Table of contents
 * [Installation](#installation)
